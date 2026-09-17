@@ -1,5 +1,11 @@
 # Protheus Report Lab
 
+<br />
+
+**English** &nbsp;|&nbsp; [Português (Brasil)](README.pt-BR.md)
+
+<br />
+
 Collection of ADVPL report examples for TOTVS Protheus — conciliation, margin analysis, fiscal documents, and commission reports using TReport.
 
 > **Disclaimer**: Educational examples. Fictional data, generic table references, and mock company names. Not derived from any specific client's production code.
